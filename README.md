@@ -4,3 +4,5 @@ $${Acxer\space /\space Alex\space /\space Guest\space !}$$
 $${\color{gray}Artist,\space Animator,\space Graphic\space Designer,\space and\space a\space dinosaur.}$$
 
 $${c+h,\space w2i,\space interact\space =\space freely.\space (unless\space i\space have\space dni.)}$$
+
+![](https://github.com/AcxerSonnellino/wip/blob/86d07b640fc37e6d8dd2c780776511da1e8e7b8e/a1c0d5d6dcf61a56ccb0e8e2a44d0068.gif)
