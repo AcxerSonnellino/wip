@@ -1,4 +1,4 @@
-$${\color{royalblue}"What\space is\space this\space Foolishness,\space Dante."}$$
+$${\color{royalblue}"What\space is\space this\space unhinged\space foolishness,\space Dante."}$$
 $${\color{firebrick}"Nah,\space I\space just\space wanna\space impress\space my\space twin\space brother."}$$
 <p align="center">
   <img src="https://github.com/AcxerSonnellino/AcxerSonnellino/blob/4044f1d0e08d0f96f1dab372ba3a0701cf5af71e/2d4875bf8bed5757fa743a1a77f3a4bc.gif" alt="Description" width="600">
