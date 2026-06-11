@@ -1,4 +1,4 @@
-![](https://github.com/AcxerSonnellino/wip/blob/2818a8092dfc3e77a49371873c69e643cab20da4/tumblr_33934a5225ec829dda86a99ce5f9ce5b_9a0582a6_1280.png)
+![]()
 
 $${\color{lavender}Acxer\space /\space Alex\space /\space Guest\space !}$$
 $${\color{steelblue}Malaysian\space +\space Korean\space :\space Artist,\space Animator,\space Graphic\space Designer,\space and\space a\space dinosaur.}$$
@@ -38,4 +38,4 @@ $${\color{gray}"September\space 30th\space 1998.\space The\space day\space i\spa
 $${\color{cyan}"Of\space course\space im\space a\space machine,\space Lt.\space what\space else\space do\space you\space think\space i\space am?"}$$
 $${\color{skyblue}"Be\space strong,\space always\space be\space strong."}$$
 
-![](https://github.com/AcxerSonnellino/wip/blob/c316658d25920a54c4fdb7553db7739ab3867150/tumblr_ba8e24dfefa6bd46cc9476fd3598619e_131535b3_1280.png)
+![]()
