@@ -1,4 +1,9 @@
-![]()
+$${\color{royalblue}"What\space is\space this\space Foolishness,\space Dante."}$$
+$${\color{firebrick}"Nah,\space I\space just\space wanna\space impress\space my\space twin\space brother."}$$
+<p align="center">
+  <img src="https://github.com/AcxerSonnellino/AcxerSonnellino/blob/4044f1d0e08d0f96f1dab372ba3a0701cf5af71e/2d4875bf8bed5757fa743a1a77f3a4bc.gif" alt="Description" width="600">
+</p>
+
 
 $${\color{lavender}Acxer\space /\space Alex\space /\space Guest\space !}$$
 $${\color{steelblue}Malaysian\space +\space Korean\space :\space Artist,\space Animator,\space Graphic\space Designer,\space and\space a\space dinosaur.}$$
@@ -31,11 +36,3 @@ $${strawpage\space on\space wip/remaking.}$$
 <p align="center">
   <img src="https://github.com/AcxerSonnellino/wip/blob/5c8cea6f5083673765ff352381afdf09ee629e64/5012c46d05bf710a980d5e3eb134547f.jpg" alt="Centered Image" width="400">
 </p>
-
-$${\color{firebrick}"You\space really\space dont\space know\space when\space to\space give\space up,\space dont\space you?!"}$$
-$${\color{royalblue}"Heal\space your\space wounds,\space Dante."}$$
-$${\color{gray}"September\space 30th\space 1998.\space The\space day\space i\space never\space forget."}$$
-$${\color{cyan}"Of\space course\space im\space a\space machine,\space Lt.\space what\space else\space do\space you\space think\space i\space am?"}$$
-$${\color{skyblue}"Be\space strong,\space always\space be\space strong."}$$
-
-![]()
