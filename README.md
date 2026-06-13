@@ -14,7 +14,8 @@ $${\color{slategray}︵\space sys\space .\space iwcare(sometimes)\space ︵}$$
 
 
 $${\color{lightblue}i\space dislike\space nonsharing\space yumeshipper\space but\space I\space respect\space and\space still\space love\space your\space yume!!}$$
-$${Im\space a\space sharing\space yumeshipper!\space Also\space a\space poly\space yumeshipper\space (means\space i\space yume\space with\space different\space fandom\space characters,\space ok?\space ok)}$$
+$${Im\space a\space sharing\space yumeshipper!\space Also\space a\space poly\space yumeshipper\space 
+(means\space i\space yume\space with\space different\space fandom\space characters,\space ok?\space ok)}$$
 
 
 
